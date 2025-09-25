@@ -214,8 +214,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ¿Tienes preguntas sobre el código o quieres discutir sobre desarrollo con IA?
 
 - 📧 Email: jorgelaraceballos@gmail.com
-- 💼 LinkedIn:[(https://www.linkedin.com/in/jorge-ignacio-lara-ceballos/)]
-- 🐙 GitHub: [(https://github.com/DDRRAKKENN/)]
+- 💼 LinkedIn:[Jorge Ignacio Lara Ceballos](https://www.linkedin.com/in/jorge-ignacio-lara-ceballos/)
+- 🐙 GitHub: [DDRRAKKENN](https://github.com/DDRRAKKENN/)
 
 ---
 
