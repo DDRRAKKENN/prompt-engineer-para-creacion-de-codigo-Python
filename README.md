@@ -214,8 +214,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ¿Tienes preguntas sobre el código o quieres discutir sobre desarrollo con IA?
 
 - 📧 Email: tu-email@ejemplo.com
-- 💼 LinkedIn: [Tu perfil](https://linkedin.com/in/tu-perfil)
-- 🐙 GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- 💼 LinkedIn: [Tu perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jorge-ignacio-lara-ceballos/))
+- 🐙 GitHub: [@tu-usuario](https://github.com/DDRRAKKENN/)
 
 ---
 
