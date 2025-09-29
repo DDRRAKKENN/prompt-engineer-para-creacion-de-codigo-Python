@@ -140,9 +140,9 @@ python tres_en_raya.py
 ```
 tres-en-raya-ia/
 │
-├── tres_en_raya.py          # Código principal del juego
+├── tic-tac-toe.py          # Código principal del juego
 ├── README.md                # Este archivo
-└── .gitignore              # Archivos a ignorar por Git
+└── .gitignore              # Archivos a ignorar por Git (si lo quieres)
 ```
 
 ## 🧪 Casos de Prueba
