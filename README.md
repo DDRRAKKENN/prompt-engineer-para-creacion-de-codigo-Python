@@ -124,7 +124,7 @@ cd tres-en-raya-ia
 
 2. **Ejecuta el juego:**
 ```bash
-python tres_en_raya.py
+python tic-tac-toe.py
 ```
 
 ### 🎮 Cómo Jugar:
